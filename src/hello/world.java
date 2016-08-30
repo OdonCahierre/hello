@@ -5,7 +5,7 @@ public class world {
 	{
 		System.out.println("Hello");
 		System.out.print("hello");
-		
+		System.out.print("world");
 		
 	}
 	
